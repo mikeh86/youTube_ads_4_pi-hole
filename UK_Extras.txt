@@ -72,7 +72,6 @@ r6---sn-cu-ajtes.googlevideo.com
 r7---sn-cu-ajtes.googlevideo.com
 r8---sn-cu-ajtes.googlevideo.com
 r9---sn-cu-ajtes.googlevideo.com
-r10---sn-cu-ajtes.googlevideo.com
 r12---sn-cu-ajtes.googlevideo.com
 r13---sn-cu-ajtes.googlevideo.com
 r14---sn-cu-ajtes.googlevideo.com
