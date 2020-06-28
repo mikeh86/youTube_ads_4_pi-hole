@@ -5,7 +5,6 @@ r5---sn-cu-ajtel.googlevideo.com
 r6---sn-cu-ajtel.googlevideo.com
 r7---sn-cu-ajtel.googlevideo.com
 r8---sn-cu-ajtel.googlevideo.com
-r9---sn-cu-ajtel.googlevideo.com
 r10---sn-cu-ajtel.googlevideo.com
 r11---sn-cu-ajtel.googlevideo.com
 r12---sn-cu-ajtel.googlevideo.com
@@ -70,7 +69,6 @@ r2---sn-cu-ajtes.googlevideo.com
 r6---sn-cu-ajtes.googlevideo.com
 r7---sn-cu-ajtes.googlevideo.com
 r8---sn-cu-ajtes.googlevideo.com
-r9---sn-cu-ajtes.googlevideo.com
 r12---sn-cu-ajtes.googlevideo.com
 r13---sn-cu-ajtes.googlevideo.com
 r14---sn-cu-ajtes.googlevideo.com
