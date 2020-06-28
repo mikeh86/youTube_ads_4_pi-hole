@@ -48,7 +48,6 @@ r17---sn-cu-cimy.googlevideo.com
 r18---sn-cu-cimy.googlevideo.com
 r19---sn-cu-cimy.googlevideo.com
 r20---sn-cu-cimy.googlevideo.com
-r1---sn-cu-ajtee.googlevideo.com
 r2---sn-cu-ajtee.googlevideo.com
 r3---sn-cu-ajtee.googlevideo.com
 r4---sn-cu-ajtee.googlevideo.com
